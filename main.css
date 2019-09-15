@@ -1,0 +1,30 @@
+canvas {
+    background: #eeeeee;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px; 
+    border: none;
+}
+
+#easy{
+    background-color: #7fb1bf;
+}
+
+#medium{
+    background-color: #9abf7f;
+}
+
+#hell{
+    background-color: #f0d264;
+}
